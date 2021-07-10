@@ -10,3 +10,7 @@
 /Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.dll
 /Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/ref/Resources.dll
 /Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.pdb
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.Assistant.Buttons.resources
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.Assistant.DataDictionary.resources
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.Assistant.ErrorMessages.resources
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.csproj.GenerateResource.cache
