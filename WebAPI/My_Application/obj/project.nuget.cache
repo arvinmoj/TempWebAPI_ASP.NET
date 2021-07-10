@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fiaE2p20CIGnYkQwwQPHTwYBnPH3uHgoKBB19gAJrGvh8S47ECp1jr3hCZXg/QfxHwykTAtpT3KU1ivVQ9LK0w==",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/My_Application/My_Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}

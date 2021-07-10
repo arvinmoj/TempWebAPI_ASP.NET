@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/bin/Debug/net5.0/Resources.deps.json
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/bin/Debug/net5.0/Resources.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/bin/Debug/net5.0/ref/Resources.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/bin/Debug/net5.0/Resources.pdb
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.AssemblyInfo.cs
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/ref/Resources.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Resources/obj/Debug/net5.0/Resources.pdb

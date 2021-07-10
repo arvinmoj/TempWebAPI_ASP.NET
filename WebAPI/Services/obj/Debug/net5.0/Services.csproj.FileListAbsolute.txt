@@ -1,0 +1,12 @@
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/bin/Debug/net5.0/Services.deps.json
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/bin/Debug/net5.0/Services.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/bin/Debug/net5.0/ref/Services.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/bin/Debug/net5.0/Services.pdb
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.csprojAssemblyReference.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.AssemblyInfo.cs
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/ref/Services.dll
+/Users/macbook/Desktop/TempWebAPI_ASP.NET/WebAPI/Services/obj/Debug/net5.0/Services.pdb
