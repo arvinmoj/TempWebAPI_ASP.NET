@@ -1,13 +1,11 @@
-using Data;
 namespace Infrastructure
 {
     public class BaseControllerWithDatabase : BaseController
     {
-        private readonly DatabaseContext _databaseContext;
-
-        public BaseControllerWithDatabase(DatabaseContext DatabaseContext)
+        public BaseControllerWithDatabase(Data.IUnitOfWork unitOfWork) : base()
         {
-            _databaseContext = DatabaseContext;
+            UnitOfWork = unitOfWork;
         }
+        protected Data.IUnitOfWork UnitOfWork { get; }
     }
 }
